@@ -1,6 +1,6 @@
 # GeminiAPIMyBotDiscord
-My discord bot on gemini api with models selection
-There is api_keys.json file for storing your keys for discord and gemini api
+My discord bot on gemini api with models selection<br>
+There is api_keys.json file for storing your keys for discord and gemini api<br>
 You can change something like system prompt in DEFAULT_SYSTEM_PROMPT and also set your own prompt by using prompt command. 
 Keep in mind you can send it videos and music too!!
 available commands:
