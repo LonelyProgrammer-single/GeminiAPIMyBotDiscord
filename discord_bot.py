@@ -10,6 +10,7 @@ import re
 import tempfile
 import base64
 import aiohttp
+import shutil
 from datetime import datetime, timezone
 from collections import defaultdict
 import google.generativeai as genai
